@@ -1,1 +1,1 @@
-# Edunet-aicte
+# Edunet-AICTE
